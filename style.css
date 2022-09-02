@@ -1,0 +1,22 @@
+body {
+	background: #FFFAFA;
+	margin: 0;
+	padding: 0;
+}
+
+#calvo {
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.textos {
+	background: white;
+}
+
+p {
+	text-align: left;
+	font-size: 24px;
+}
