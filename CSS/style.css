@@ -1,3 +1,10 @@
+nav Li {
+	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
 body {
 	background: #FFFAFA;
 	margin: 0;
