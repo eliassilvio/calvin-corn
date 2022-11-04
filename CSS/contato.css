@@ -1,4 +1,20 @@
+nav Li {
+	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+body {
+	background: #FFFAFA;
+	margin: 0;
+	padding: 0;
+}
+
+#calvo {
+	width: 100%;
+}
+
 h1 {
-    font-size: 50px;
-    text-align: center;
+	text-align: center;
 }
