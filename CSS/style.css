@@ -1,6 +1,6 @@
 nav Li {
 	display: inline;
-	margin: 0, 25px, 0, 25px;
+	margin: 0, 30px, 0, 30px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -9,7 +9,7 @@ nav {
 	width: 940px;
 	top: 5px;
 	right: 15px;
-	background-color: beige;
+	background-color: white;
 }
 
 nav a {
