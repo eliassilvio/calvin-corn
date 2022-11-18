@@ -20,6 +20,10 @@ nav a {
 	color: black;
 }
 
+nav a:hover {
+	color: indigo;
+}
+
 
 body {
 	background: #FFFAFA;
