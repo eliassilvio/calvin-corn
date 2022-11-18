@@ -12,6 +12,13 @@ nav {
 	background-color: beige;
 }
 
+nav a {
+	font-weight: lighter;
+	font-size: 35px;
+	text-decoration: none;
+	color: darkgrey;
+}
+
 
 body {
 	background: #FFFAFA;
