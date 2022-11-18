@@ -22,6 +22,7 @@ nav a {
 
 nav a:hover {
 	color: indigo;
+	text-decoration: underline;
 }
 
 
