@@ -1,7 +1,15 @@
 nav Li {
 	display: inline;
+	margin: 0, 25px, 0, 25px;
 	text-decoration: none;
 	text-transform: uppercase;
+}
+
+nav {
+	width: 940px;
+	top: 5px;
+	right: 15px;
+	background-color: burlywood;
 }
 
 
